@@ -1,0 +1,71 @@
+<!-- This list contains entities used in BFM MSS in addition to MENOTA entities -->
+<!-- (see http://www.menota.org/guidelines-2/schemes/menota-entities.txt) -->
+
+<!ENTITY stigma "&#x03C2;">		<!-- FINAL OPEN S (SIMILAR TO GREEK STIGMA) -->
+<!ENTITY eol "[EOL]">			<!-- END OF LINE FILLING -->
+<!ENTITY dblbar "&#x035E;">		<!-- COMBINING ABBREVIATION MARK DOUBLE BAR ABOVE -->
+<!ENTITY combinvbreve "&#x0311;" >	<!-- COMBINING ABBREVIATION MARK INVERTED BREVE -->	
+<!ENTITY combdblinvbreve "&#x0361;" >	<!-- COMBINING ABBREVIATION MARK DOUBLE INVERTED BREVE -->	
+<!ENTITY dbloblhyphen "&#x2E17;" >	<!-- DOUBLE OBLIQUE HYPHEN -->
+<!ENTITY vdbldot "v.." >		<!-- V AND DOUBLE DOT END OF PARAGRAPH PUNCTUATION -->
+
+<!-- Entities for space modifier superscript letters in abbreviations (= nbsp + combining superscript)-->
+
+<!ENTITY aeligsupmod "&#xa0;&#xF011;">		<!-- MODIFIER LATIN SMALL LETTER AE -->
+<!ENTITY anligsupmod "&#xa0;&#xF036;">		<!-- MODIFIER LATIN SMALL LIGATURE AN -->
+<!ENTITY anscapligsupmod "&#xa0;&#xF03A;">		<!-- MODIFIER LATIN SMALL LIGATURE A SMALL CAPITAL N -->
+<!ENTITY aoligsupmod "&#xa0;&#xF037;">		<!-- MODIFIER LATIN SMALL LIGATURE AO -->
+<!ENTITY arligsupmod "&#xa0;&#xF038;">		<!-- MODIFIER LATIN SMALL LIGATURE AR -->
+<!ENTITY asupmod "&#xa0;&#x0363;">		<!-- MODIFIER LATIN SMALL LETTER A -->
+<!ENTITY avligsupmod "&#xa0;&#xF039;">		<!-- MODIFIER LATIN SMALL LIGATURE AV -->
+<!ENTITY bsupmod "&#xa0;&#xF012;">		<!-- MODIFIER LATIN SMALL LETTER B -->
+<!ENTITY bscapsupmod "&#xa0;&#xF013;">		<!-- MODIFIER LATIN LETTER SMALL CAPITAL B -->
+<!ENTITY ccedilsupmod "&#xa0;&#xF02D;">		<!-- MODIFIER LATIN SMALL LETTER C CEDILLA -->
+<!ENTITY ethsupmod "&#xa0;&#xF014;">		<!-- MODIFIER LATIN SMALL LETTER ETH -->
+<!ENTITY drotsupmod "&#xa0;&#xF02E;">		<!-- MODIFIER LATIN LETTER SMALL D ROTUNDA -->
+<!ENTITY dscapsupmod "&#xa0;&#xF016;">		<!-- MODIFIER LATIN LETTER SMALL CAPITAL D -->
+<!ENTITY esupmod "&#xa0;&#x0364;">		<!-- MODIFIER LATIN SMALL LETTER E -->
+<!ENTITY fsupmod "&#xa0;&#xF017;">		<!-- MODIFIER LATIN SMALL LETTER F -->
+<!ENTITY gsupmod "&#xa0;&#xF018;">		<!-- MODIFIER LATIN SMALL LETTER G -->
+<!ENTITY gscapsupmod "&#xa0;&#xF019;">		<!-- MODIFIER LATIN LETTER SMALL CAPITAL G -->
+<!ENTITY inodotsupmod "&#xa0;&#xF02F;">		<!-- MODIFIER LATIN SMALL LETTER DOTLESS I -->
+<!ENTITY isupmod "&#xa0;&#x0365;">		<!-- MODIFIER LATIN SMALL LETTER I -->
+<!ENTITY jsupmod "&#xa0;&#xF030;">		<!-- MODIFIER LATIN SMALL LETTER J -->
+<!ENTITY jnodotsupmod "&#xa0;&#xF031;">		<!-- MODIFIER LATIN SMALL LETTER DOTLESS J -->
+<!ENTITY ksupmod "&#xa0;&#xF01B;">		<!-- MODIFIER LATIN SMALL LETTER K -->
+<!ENTITY kscapsupmod "&#xa0;&#xF01C;">		<!-- MODIFIER LATIN LETTER SMALL CAPITAL K -->
+<!ENTITY lsupmod "&#xa0;&#xF01D;">		<!-- MODIFIER LATIN SMALL LETTER L -->
+<!ENTITY lscapsupmod "&#xa0;&#xF01E;">		<!-- MODIFIER LATIN LETTER SMALL CAPITAL L -->
+<!ENTITY mscapsupmod "&#xa0;&#xF020;">		<!-- MODIFIER LATIN LETTER SMALL CAPITAL M -->
+<!ENTITY nsupmod "&#xa0;&#xF021;">		<!-- MODIFIER LATIN SMALL LETTER N -->
+<!ENTITY nscapsupmod "&#xa0;&#xF023;">		<!-- MODIFIER LATIN LETTER SMALL CAPITAL N -->
+<!ENTITY msupmod "&#xa0;&#x036B;">		<!-- MODIFIER LATIN SMALL LETTER M -->
+<!ENTITY oslashsupmod "&#xa0;&#xF032;">		<!-- MODIFIER LATIN SMALL LETTER O WITH STROKE -->
+<!ENTITY orrotsupmod "&#xa0;&#xF03E;">		<!-- MODIFIER LATIN SMALL LETTER O R ROTUNDA -->
+<!ENTITY orumsupmod "&#xa0;&#xF03F;">		<!-- MODIFIER LATIN SMALL LETTER O RUM -->
+<!ENTITY osupmod "&#xa0;&#x0366;">		<!-- MODIFIER LATIN SMALL LETTER O -->
+<!ENTITY psupmod "&#xa0;&#xF025;">		<!-- MODIFIER LATIN SMALL LETTER P -->
+<!ENTITY qsupmod "&#xa0;&#xF033;">		<!-- MODIFIER LATIN SMALL LETTER Q -->
+<!ENTITY rrotsupmod "&#xa0;&#xF035;">		<!-- MODIFIER LATIN SMALL LETTER R ROTUNDA -->
+<!ENTITY rumsupmod "&#xa0;&#xF040;">		<!-- MODIFIER LATIN SMALL LETTER RUM -->
+<!ENTITY rscapsupmod "&#xa0;&#xF026;">		<!-- MODIFIER LATIN LETTER SMALL CAPITAL R -->
+<!ENTITY ssupmod "&#xa0;&#xF027;">		<!-- MODIFIER LATIN SMALL LETTER S -->
+<!ENTITY slongsupmod "&#xa0;&#xF028;">		<!-- MODIFIER LATIN LETTER LONG S -->
+<!ENTITY tscapsupmod "&#xa0;&#xF02A;">		<!-- MODIFIER LATIN LETTER SMALL CAPITAL T -->
+<!ENTITY trotsupmod "&#xa0;&#xF03B;">		<!-- MODIFIER LATIN SMALL LETTER T ROTUNDA -->
+<!ENTITY usupmod "&#xa0;&#x0367;">		<!-- MODIFIER LATIN SMALL LETTER U -->
+<!ENTITY wsupmod "&#xa0;&#xF03C;">		<!-- MODIFIER LATIN SMALL LETTER W -->
+<!ENTITY ysupmod "&#xa0;&#xF02B;">		<!-- MODIFIER LATIN SMALL LETTER Y -->
+<!ENTITY zsupmod "&#xa0;&#xF02C;">		<!-- MODIFIER LATIN SMALL LETTER Z -->
+<!ENTITY thornsupmod "&#xa0;&#xF03D;">		<!-- MODIFIER LATIN SMALL LETTER THORN -->
+
+<!ENTITY arbarmod "&#xa0;&#xF1C0;">		<!-- MODIFIER ABBREVIATION MARK BAR ABOVE WITH DOT -->
+<!ENTITY erangmod "&#xa0;&#xF1C7;">			<!-- MODIFIER ABBREVIATION MARK ZIGZAG ABOVE ANGLE FORM -->
+<!ENTITY ercurlmod "&#xa0;&#xF1C8;">			<!-- MODIFIER ABBREVIATION MARK ZIGZAG ABOVE CURLY FORM -->
+<!ENTITY ersubmod "&#xa0;&#xF1C9;">			<!-- MODIFIER ABBREVIATION MARK ZIGZAG BELOW -->
+<!ENTITY ramod "&#xa0;&#xF157;">			<!-- MODIFIER ABBREVIATION MARK SUPERSCRIPT RA OPEN A FORM -->
+<!ENTITY rabarmod "&#xa0;&#xF1C1;">		<!-- MODIFIER ABBREVIATION MARK SUPERSCRIPT RA OPEN A FORM WITH BAR ABOVE -->
+<!ENTITY urrotmod "&#xa0;&#xF153;">		<!-- MODIFIER ABBREVIATION MARK SUPERSCRIPT UR ROUND R FORM -->
+<!ENTITY urlemnmod "&#xa0;&#xF1C2;">		<!-- MODIFIER ABBREVIATION MARK SUPERSCRIPT UR LEMNISKATE FORM -->
+<!ENTITY urmod "&#xa0;&#xF1C3;">		<!-- MODIFIER ABBREVIATION MARK SUPERSCRIPT UR TILDE FORM -->
+

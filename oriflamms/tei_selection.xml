@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--lib ComplexObject file-->
+<ComplexObject>
+    <TEISelectionNode name="">
+        <TEISelectionNode name="text">
+            <TEISelectionNode name="body">
+                <TEISelectionNode name="milestone"/>
+                <TEISelectionNode name="pb"/>
+                <TEISelectionNode name="cb"/>
+                <TEISelectionNode name="p">
+                    <TEISelectionNode name="lb"/>
+                    <TEISelectionNode name="s">
+                        <TEISelectionNode name="lb"/>
+                        <TEISelectionNode name="w">
+                            <TEISelectionNode name="c">
+                                <TEISelectionNode name="g"/>
+                            </TEISelectionNode>
+                            <TEISelectionNode name="choice">
+                                <TEISelectionNode name="abbr">
+                                    <TEISelectionNode name="c">
+                                        <TEISelectionNode name="g"/>
+                                    </TEISelectionNode>
+                                </TEISelectionNode>
+                            </TEISelectionNode>
+                            <TEISelectionNode name="seg">
+                                <TEISelectionNode name="c">
+                                    <TEISelectionNode name="g"/>
+                                </TEISelectionNode>
+                                <TEISelectionNode name="choice">
+                                    <TEISelectionNode name="abbr">
+                                        <TEISelectionNode name="c">
+                                            <TEISelectionNode name="g"/>
+                                        </TEISelectionNode>
+                                    </TEISelectionNode>
+                                </TEISelectionNode>
+                                <TEISelectionNode name="del">
+                                    <TEISelectionNode name="c"/>
+                                </TEISelectionNode>
+                                <TEISelectionNode name="g"/>
+                            </TEISelectionNode>
+                            <TEISelectionNode name="lb"/>
+                            <TEISelectionNode name="milestone"/>
+                            <TEISelectionNode name="pb"/>
+                            <TEISelectionNode name="cb"/>
+                            <TEISelectionNode name="del">
+                                <TEISelectionNode name="c">
+                                    <TEISelectionNode name="g"/>
+                                </TEISelectionNode>
+                            </TEISelectionNode>
+                            <TEISelectionNode name="subst">
+                                <TEISelectionNode name="del">
+                                    <TEISelectionNode name="c"/>
+                                </TEISelectionNode>
+                                <TEISelectionNode name="add">
+                                    <TEISelectionNode name="c"/>
+                                </TEISelectionNode>
+                            </TEISelectionNode>
+                            <TEISelectionNode name="g"/>
+                            <TEISelectionNode name="ex">
+                                <TEISelectionNode name="g"/>
+                            </TEISelectionNode>
+                        </TEISelectionNode>
+                        <TEISelectionNode name="pc">
+                            <TEISelectionNode name="choice">
+                                <TEISelectionNode name="orig">
+                                    <TEISelectionNode name="c"/>
+                                </TEISelectionNode>
+                            </TEISelectionNode>
+                            <TEISelectionNode name="orig">
+                                <TEISelectionNode name="c"/>
+                            </TEISelectionNode>
+                            <TEISelectionNode name="c"/>
+                        </TEISelectionNode>
+                        <TEISelectionNode name="milestone"/>
+                        <TEISelectionNode name="pb"/>
+                        <TEISelectionNode name="cb"/>
+                        <TEISelectionNode name="damage">
+                            <TEISelectionNode name="w">
+                                <TEISelectionNode name="c"/>
+                            </TEISelectionNode>
+                        </TEISelectionNode>
+                        <TEISelectionNode name="del">
+                            <TEISelectionNode name="w">
+                                <TEISelectionNode name="c"/>
+                            </TEISelectionNode>
+                            <TEISelectionNode name="pc"/>
+                        </TEISelectionNode>
+                        <TEISelectionNode name="surplus">
+                            <TEISelectionNode name="w">
+                                <TEISelectionNode name="c">
+                                    <TEISelectionNode name="g"/>
+                                </TEISelectionNode>
+                                <TEISelectionNode name="seg">
+                                    <TEISelectionNode name="c"/>
+                                </TEISelectionNode>
+                                <TEISelectionNode name="lb"/>
+                                <TEISelectionNode name="g"/>
+                            </TEISelectionNode>
+                            <TEISelectionNode name="lb"/>
+                            <TEISelectionNode name="pc">
+                                <TEISelectionNode name="c"/>
+                            </TEISelectionNode>
+                        </TEISelectionNode>
+                        <TEISelectionNode name="choice">
+                            <TEISelectionNode name="sic">
+                                <TEISelectionNode name="w">
+                                    <TEISelectionNode name="c">
+                                        <TEISelectionNode name="g"/>
+                                    </TEISelectionNode>
+                                    <TEISelectionNode name="seg">
+                                        <TEISelectionNode name="c"/>
+                                    </TEISelectionNode>
+                                    <TEISelectionNode name="lb"/>
+                                    <TEISelectionNode name="g"/>
+                                </TEISelectionNode>
+                            </TEISelectionNode>
+                        </TEISelectionNode>
+                        <TEISelectionNode name="seg">
+                            <TEISelectionNode name="w">
+                                <TEISelectionNode name="c">
+                                    <TEISelectionNode name="g"/>
+                                </TEISelectionNode>
+                                <TEISelectionNode name="del">
+                                    <TEISelectionNode name="c"/>
+                                </TEISelectionNode>
+                            </TEISelectionNode>
+                            <TEISelectionNode name="del">
+                                <TEISelectionNode name="w">
+                                    <TEISelectionNode name="c">
+                                        <TEISelectionNode name="g"/>
+                                    </TEISelectionNode>
+                                </TEISelectionNode>
+                                <TEISelectionNode name="pc">
+                                    <TEISelectionNode name="c"/>
+                                </TEISelectionNode>
+                            </TEISelectionNode>
+                        </TEISelectionNode>
+                    </TEISelectionNode>
+                    <TEISelectionNode name="q">
+                        <TEISelectionNode name="s">
+                            <TEISelectionNode name="pc">
+                                <TEISelectionNode name="choice">
+                                    <TEISelectionNode name="orig">
+                                        <TEISelectionNode name="c"/>
+                                    </TEISelectionNode>
+                                </TEISelectionNode>
+                                <TEISelectionNode name="c"/>
+                                <TEISelectionNode name="orig">
+                                    <TEISelectionNode name="c"/>
+                                </TEISelectionNode>
+                            </TEISelectionNode>
+                            <TEISelectionNode name="w">
+                                <TEISelectionNode name="c">
+                                    <TEISelectionNode name="g"/>
+                                </TEISelectionNode>
+                                <TEISelectionNode name="choice">
+                                    <TEISelectionNode name="abbr">
+                                        <TEISelectionNode name="c">
+                                            <TEISelectionNode name="g"/>
+                                        </TEISelectionNode>
+                                    </TEISelectionNode>
+                                </TEISelectionNode>
+                                <TEISelectionNode name="seg">
+                                    <TEISelectionNode name="c">
+                                        <TEISelectionNode name="g"/>
+                                    </TEISelectionNode>
+                                    <TEISelectionNode name="choice">
+                                        <TEISelectionNode name="abbr">
+                                            <TEISelectionNode name="c">
+                                                <TEISelectionNode name="g"/>
+                                            </TEISelectionNode>
+                                        </TEISelectionNode>
+                                    </TEISelectionNode>
+                                    <TEISelectionNode name="g"/>
+                                </TEISelectionNode>
+                                <TEISelectionNode name="lb"/>
+                                <TEISelectionNode name="cb"/>
+                                <TEISelectionNode name="milestone"/>
+                                <TEISelectionNode name="pb"/>
+                                <TEISelectionNode name="del">
+                                    <TEISelectionNode name="c">
+                                        <TEISelectionNode name="g"/>
+                                    </TEISelectionNode>
+                                    <TEISelectionNode name="choice">
+                                        <TEISelectionNode name="abbr">
+                                            <TEISelectionNode name="c"/>
+                                        </TEISelectionNode>
+                                    </TEISelectionNode>
+                                </TEISelectionNode>
+                                <TEISelectionNode name="g"/>
+                                <TEISelectionNode name="ex">
+                                    <TEISelectionNode name="g"/>
+                                </TEISelectionNode>
+                            </TEISelectionNode>
+                            <TEISelectionNode name="lb"/>
+                            <TEISelectionNode name="surplus">
+                                <TEISelectionNode name="w">
+                                    <TEISelectionNode name="c"/>
+                                    <TEISelectionNode name="seg">
+                                        <TEISelectionNode name="c"/>
+                                    </TEISelectionNode>
+                                    <TEISelectionNode name="lb"/>
+                                </TEISelectionNode>
+                                <TEISelectionNode name="pc">
+                                    <TEISelectionNode name="c"/>
+                                    <TEISelectionNode name="choice">
+                                        <TEISelectionNode name="orig">
+                                            <TEISelectionNode name="c"/>
+                                        </TEISelectionNode>
+                                    </TEISelectionNode>
+                                </TEISelectionNode>
+                                <TEISelectionNode name="lb"/>
+                            </TEISelectionNode>
+                            <TEISelectionNode name="cb"/>
+                            <TEISelectionNode name="milestone"/>
+                            <TEISelectionNode name="pb"/>
+                            <TEISelectionNode name="choice">
+                                <TEISelectionNode name="sic">
+                                    <TEISelectionNode name="w">
+                                        <TEISelectionNode name="c">
+                                            <TEISelectionNode name="g"/>
+                                        </TEISelectionNode>
+                                        <TEISelectionNode name="seg">
+                                            <TEISelectionNode name="c">
+                                                <TEISelectionNode name="g"/>
+                                            </TEISelectionNode>
+                                        </TEISelectionNode>
+                                        <TEISelectionNode name="lb"/>
+                                        <TEISelectionNode name="g"/>
+                                    </TEISelectionNode>
+                                </TEISelectionNode>
+                            </TEISelectionNode>
+                            <TEISelectionNode name="seg">
+                                <TEISelectionNode name="w">
+                                    <TEISelectionNode name="c"/>
+                                    <TEISelectionNode name="del">
+                                        <TEISelectionNode name="c">
+                                            <TEISelectionNode name="g"/>
+                                        </TEISelectionNode>
+                                    </TEISelectionNode>
+                                </TEISelectionNode>
+                            </TEISelectionNode>
+                            <TEISelectionNode name="del">
+                                <TEISelectionNode name="w">
+                                    <TEISelectionNode name="c">
+                                        <TEISelectionNode name="g"/>
+                                    </TEISelectionNode>
+                                    <TEISelectionNode name="choice">
+                                        <TEISelectionNode name="abbr">
+                                            <TEISelectionNode name="c"/>
+                                        </TEISelectionNode>
+                                    </TEISelectionNode>
+                                </TEISelectionNode>
+                                <TEISelectionNode name="pc">
+                                    <TEISelectionNode name="c"/>
+                                </TEISelectionNode>
+                            </TEISelectionNode>
+                            <TEISelectionNode name="add">
+                                <TEISelectionNode name="w">
+                                    <TEISelectionNode name="c"/>
+                                </TEISelectionNode>
+                            </TEISelectionNode>
+                            <TEISelectionNode name="subst">
+                                <TEISelectionNode name="del">
+                                    <TEISelectionNode name="w">
+                                        <TEISelectionNode name="c"/>
+                                    </TEISelectionNode>
+                                </TEISelectionNode>
+                                <TEISelectionNode name="add">
+                                    <TEISelectionNode name="w">
+                                        <TEISelectionNode name="c"/>
+                                    </TEISelectionNode>
+                                </TEISelectionNode>
+                            </TEISelectionNode>
+                        </TEISelectionNode>
+                        <TEISelectionNode name="q">
+                            <TEISelectionNode name="s">
+                                <TEISelectionNode name="pc">
+                                    <TEISelectionNode name="choice">
+                                        <TEISelectionNode name="orig">
+                                            <TEISelectionNode name="c"/>
+                                        </TEISelectionNode>
+                                    </TEISelectionNode>
+                                    <TEISelectionNode name="c"/>
+                                </TEISelectionNode>
+                                <TEISelectionNode name="w">
+                                    <TEISelectionNode name="c">
+                                        <TEISelectionNode name="g"/>
+                                    </TEISelectionNode>
+                                    <TEISelectionNode name="seg">
+                                        <TEISelectionNode name="c">
+                                            <TEISelectionNode name="g"/>
+                                        </TEISelectionNode>
+                                        <TEISelectionNode name="g"/>
+                                    </TEISelectionNode>
+                                    <TEISelectionNode name="lb"/>
+                                    <TEISelectionNode name="del">
+                                        <TEISelectionNode name="c"/>
+                                    </TEISelectionNode>
+                                    <TEISelectionNode name="g"/>
+                                    <TEISelectionNode name="ex">
+                                        <TEISelectionNode name="g"/>
+                                    </TEISelectionNode>
+                                </TEISelectionNode>
+                                <TEISelectionNode name="lb"/>
+                                <TEISelectionNode name="milestone"/>
+                                <TEISelectionNode name="choice">
+                                    <TEISelectionNode name="sic">
+                                        <TEISelectionNode name="w">
+                                            <TEISelectionNode name="c"/>
+                                        </TEISelectionNode>
+                                    </TEISelectionNode>
+                                </TEISelectionNode>
+                                <TEISelectionNode name="seg">
+                                    <TEISelectionNode name="w">
+                                        <TEISelectionNode name="del">
+                                            <TEISelectionNode name="c"/>
+                                        </TEISelectionNode>
+                                        <TEISelectionNode name="c"/>
+                                    </TEISelectionNode>
+                                </TEISelectionNode>
+                                <TEISelectionNode name="surplus">
+                                    <TEISelectionNode name="w">
+                                        <TEISelectionNode name="c"/>
+                                    </TEISelectionNode>
+                                </TEISelectionNode>
+                                <TEISelectionNode name="pb"/>
+                                <TEISelectionNode name="cb"/>
+                            </TEISelectionNode>
+                            <TEISelectionNode name="q">
+                                <TEISelectionNode name="s">
+                                    <TEISelectionNode name="pc">
+                                        <TEISelectionNode name="c"/>
+                                        <TEISelectionNode name="choice">
+                                            <TEISelectionNode name="orig">
+                                                <TEISelectionNode name="c"/>
+                                            </TEISelectionNode>
+                                        </TEISelectionNode>
+                                    </TEISelectionNode>
+                                    <TEISelectionNode name="w">
+                                        <TEISelectionNode name="c">
+                                            <TEISelectionNode name="g"/>
+                                        </TEISelectionNode>
+                                        <TEISelectionNode name="seg">
+                                            <TEISelectionNode name="c"/>
+                                        </TEISelectionNode>
+                                        <TEISelectionNode name="lb"/>
+                                        <TEISelectionNode name="g"/>
+                                    </TEISelectionNode>
+                                    <TEISelectionNode name="lb"/>
+                                    <TEISelectionNode name="milestone"/>
+                                </TEISelectionNode>
+                            </TEISelectionNode>
+                        </TEISelectionNode>
+                        <TEISelectionNode name="lb"/>
+                        <TEISelectionNode name="milestone"/>
+                        <TEISelectionNode name="pb"/>
+                        <TEISelectionNode name="cb"/>
+                    </TEISelectionNode>
+                    <TEISelectionNode name="milestone"/>
+                    <TEISelectionNode name="cb"/>
+                    <TEISelectionNode name="pb"/>
+                </TEISelectionNode>
+                <TEISelectionNode name="lb"/>
+            </TEISelectionNode>
+        </TEISelectionNode>
+    </TEISelectionNode>
+</ComplexObject>
