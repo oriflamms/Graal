@@ -23,7 +23,19 @@
     <text>
         <body>
             <ab>
-                <linkGrp type="words"/>
+                <linkGrp type="words">
+                    <link target="txt:c_w106_101126_2 lgly:b-1"/>
+                    <link target="txt:c_w106_101213_1 lgly:b-0"/>
+                    <link target="txt:c_w106_101150_2 lgly:b-1"/>
+                    <link target="txt:c_w106_101156_1 lgly:b-0"/>
+                    <link target="txt:c_w106_101409_1 lgly:b-0"/>
+                    <link target="txt:c_w106_101460_1 lgly:b-1"/>
+                    <link target="txt:c_w106_101495_4 lgly:b-0"/>
+                    <link target="txt:c_w106_101596_6 lgly:b-1"/>
+                    <link target="txt:c_w106_101641_5 lgly:b-0"/>
+                    <link target="txt:c_w106_101660_1 lgly:b-1"/>
+                    <link target="txt:c_w106_101836_5 lgly:b-1"/>
+                </linkGrp>
             </ab>
         </body>
     </text>

@@ -23,7 +23,30 @@
     <text>
         <body>
             <ab>
-                <linkGrp type="words"/>
+                <linkGrp type="words">
+                    <link target="txt:c_w106_067306_7 lgly:b-1"/>
+                    <link target="txt:c_w106_067816_1 lgly:b-0"/>
+                    <link target="txt:c_w106_067363_6 lgly:b-1"/>
+                    <link target="txt:c_w106_067377_4 lgly:b-1"/>
+                    <link target="txt:c_w106_067391_4 lgly:b-1"/>
+                    <link target="txt:c_w106_067454_1 lgly:b-1"/>
+                    <link target="txt:c_w106_067474_1 lgly:b-1"/>
+                    <link target="txt:c_w106_067576_1 lgly:b-0"/>
+                    <link target="txt:c_w106_067653_3 lgly:b-1"/>
+                    <link target="txt:c_w106_067581_1 lgly:b-1"/>
+                    <link target="txt:c_w106_067686_1 lgly:b-1"/>
+                    <link target="txt:c_w106_067686_3 lgly:b-0"/>
+                    <link target="txt:c_w106_067783_2 lgly:b-1"/>
+                    <link target="txt:c_w106_067849_3 lgly:b-0"/>
+                    <link target="txt:c_w106_067870_1 lgly:b-0"/>
+                    <link target="txt:c_w106_067875_1 lgly:b-0"/>
+                    <link target="txt:c_w106_067904_1 lgly:b-1"/>
+                    <link target="txt:c_w106_067925_1 lgly:b-1"/>
+                    <link target="txt:c_w106_067951_1 lgly:b-0"/>
+                    <link target="txt:c_w106_067974_1 lgly:b-0"/>
+                    <link target="txt:c_w106_067983_1 lgly:b-0"/>
+                    <link target="txt:c_w106_067990_2 lgly:b-1"/>
+                </linkGrp>
             </ab>
         </body>
     </text>
